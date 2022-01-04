@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641091617 source:d:\free_time_learning\alphabet_position\alphabet_position\main.c
+	<stdio.h>
+	<stdlib.h>
+
